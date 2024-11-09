@@ -64,7 +64,7 @@ The dataset includes the following Primary tables:
 This section provides a quick overview of critical sales metrics, including monthly, quarterly, and yearly sales, as well as customer retention rate
 and order summary.
 
-![Sales Key Information](images/Sales_Key_Information.png)
+Sales Key Information screen.png
 
 ### 2. Sales By Products Analysis Screen
 
