@@ -99,7 +99,7 @@ The "Total Sales Comparison By Date" screen enables date-based comparisons to an
 - **Date Range Selection**: Users can choose specific months and years to define a range for comparison.
 - **Sales Comparison Table**: Displays sales by product between the minimum and maximum selected dates, allowing users to see sales trends over time.
 
-![Total Sales Comparison By Date](images/Total_Sales_Comparison_by_Date.png)
+![Total Sales Comparison By Date](images/Total_Sales_Comparision_by_Date.png)
 
 
 
