@@ -74,19 +74,19 @@ Analyzes customer segments based on order behavior.
         • Year - DECEMBER-2018 • Result – GPA 5.9/7 (Average Distinctions (73%))  
 	Achieved High Distinction (HD) in 6 units, including 
 
-        Supply Chain Analytics (Score: 90/100) ,
-        Database Systems (Score: 88/100)
-        Operations Management (Score: 89/100)
+        Database Systems (Score: 88/100) (Highest Mark, Got Testimonial from University Lecturer)
+        Supply Chain Analytics (Score: 90/100) (Highest Mark) ,
+        Operations Management (Score: 89/100) (Highest Mark)
 
-2. **Information Technology Advanced Diploma (Software Development) - NIIT, India**
+3. **Information Technology Advanced Diploma (Software Development) - NIIT, India**
    - Completed a 2-year program with a focus on database development and software solutions.
 
-3. **Data Analytics Professional Certificate by Google**
-4. **IT Support Professional Certificate by Google**
-5. **Power BI Data Analytics for All Levels (CodeBasics.io)**
-6. **Power BI: Complete Guide (Udemy.com)**
-7. **SQL Mastery Certificate (Code with Mosh)**
-8. **SQL Beginner to Advanced Certificate (CodeBasics.io)**
+4. **Data Analytics Professional Certificate by Google**
+5. **IT Support Professional Certificate by Google**
+6. **Power BI Data Analytics for All Levels (CodeBasics.io)**
+7. **Power BI: Complete Guide (Udemy.com)**
+8. **SQL Mastery Certificate (Code with Mosh)**
+9. **SQL Beginner to Advanced Certificate (CodeBasics.io)**
 
 **Work Experience:**
 
