@@ -73,12 +73,11 @@ Analyzes customer segments based on order behavior.
 1. **Bachelor of Business - Victoria University - Melbourne – Australia.
 
         • Year - DECEMBER-2018 • Result – GPA 5.9/7 (Average Distinctions (73%))
-         Achieved High Distinction (HD) in 6 units, including 
+ 
+ Achieved High Distinction (HD) in 6 units, including 
 
 	Database Systems (Score: 88/100) (Highest Mark) (Got Testimonial from University Lecturer)
-
-        Supply Chain Analytics (Score: 90/100) (Highest Mark) ,
-
+ Supply Chain Analytics (Score: 90/100) (Highest Mark) ,
 	Operations Management (Score: 89/100) (Highest Mark)
 
 3. **Information Technology Advanced Diploma (Software Development) - NIIT, India**
