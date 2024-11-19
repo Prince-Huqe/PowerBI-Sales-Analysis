@@ -76,11 +76,11 @@ Analyzes customer segments based on order behavior.
  
  Achieved High Distinction (HD) in 6 units, including 
 
-	Database Systems (Score: 88/100) (Highest Mark) (Got Testimonial from University Lecturer)
+	Database Systems (Score: 88/100) 
  
-    Supply Chain Analytics (Score: 90/100) (Highest Mark) ,
+    Supply Chain Analytics (Score: 90/100) 
  
-	Operations Management (Score: 89/100) (Highest Mark)
+	Operations Management (Score: 89/100)
  
 
 3. **Information Technology Advanced Diploma (Software Development) - NIIT, India**
@@ -104,10 +104,7 @@ Analyzes customer segments based on order behavior.
   - **Coding and Debugging**: Assisted in writing and debugging Visual Basic code.
   - **Quality Assurance**: Assisted in quality checks to ensure reliability.
 
-My journey into data analysis has been driven by a passion for working with data and creating meaningful insights. 
-I recently developed hands-on skills with Power BI, DAX functions, and data visualization through real-life projects,
-including the sales analysis presented here. I am eager to apply these skills in an entry-level IT role and continue 
-my learning journey in the industry.
+I am passionate about working with data and learning new technologies. Recently, I have gained hands-on experience with Power BI, DAX functions, and data visualization through practical projects like the sales analysis showcased here. I am excited to start my journey in an entry-level IT role where I can keep learning and growing.
 
 
 ## Contact
