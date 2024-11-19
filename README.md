@@ -98,7 +98,7 @@ Analyzes customer segments based on order behavior.
 - **Junior Database Programmer (Softweb Bangladesh)**
   - Duration: 1 year (2005 January - 2006 January)
   -  Assisted in managing database systems, software, and business reports to support data-driven decision-making.
-  -     
+       
   - **User Interface Design**: Assisted in developing forms using Visual Basic.
   - **Relational Database Systems**: Assisted in managing databases with SQL Server and MS Access for data management.
   - **Reports Generation**: Supported in generating business reports using Seagate Crystal Reports.
