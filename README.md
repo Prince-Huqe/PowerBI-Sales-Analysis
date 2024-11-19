@@ -78,7 +78,7 @@ Analyzes customer segments based on order behavior.
 
 	Database Systems (Score: 88/100) (Highest Mark) (Got Testimonial from University Lecturer)
  
-        Supply Chain Analytics (Score: 90/100) (Highest Mark) ,
+    Supply Chain Analytics (Score: 90/100) (Highest Mark) ,
  
 	Operations Management (Score: 89/100) (Highest Mark)
  
