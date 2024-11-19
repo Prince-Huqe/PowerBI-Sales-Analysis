@@ -70,7 +70,8 @@ Analyzes customer segments based on order behavior.
 
 **Education:**
 
-1. **Bachelor of Business - Victoria University - Melbourne – Australia.    
+1. **Bachelor of Business - Victoria University - Melbourne – Australia.
+
         • Year - DECEMBER-2018 • Result – GPA 5.9/7 (Average Distinctions (73%))  
 	Achieved High Distinction (HD) in 6 units, including 
 
