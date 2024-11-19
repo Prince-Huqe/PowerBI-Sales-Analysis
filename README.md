@@ -44,9 +44,9 @@ Provides an overview of key sales metrics, including monthly, quarterly, and yea
 ![Sales Key Information](images/Sales_Key_Information.png)
 
 ### 2. Sales By Products Analysis Screen
-Details product performance, including:
+Analyzed product categories to identify trends in total sales and product performance.
 - **Total Sales by Product Category**.
-- **Product Performance**: Data such as average price, total quantity sold, and total sales.
+- **Summarized product details, including price, quantity sold, and total sales to understand product trends.
 ![Sales By Products Analysis](images/Sales_by_Product_Analysis.png)
 
 ### 3. Sales By Customer Category
