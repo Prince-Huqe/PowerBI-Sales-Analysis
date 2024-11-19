@@ -77,8 +77,11 @@ Analyzes customer segments based on order behavior.
  Achieved High Distinction (HD) in 6 units, including 
 
 	Database Systems (Score: 88/100) (Highest Mark) (Got Testimonial from University Lecturer)
- Supply Chain Analytics (Score: 90/100) (Highest Mark) ,
+ 
+        Supply Chain Analytics (Score: 90/100) (Highest Mark) ,
+ 
 	Operations Management (Score: 89/100) (Highest Mark)
+ 
 
 3. **Information Technology Advanced Diploma (Software Development) - NIIT, India**
    - Completed a 2-year program with a focus on database development and software solutions.
