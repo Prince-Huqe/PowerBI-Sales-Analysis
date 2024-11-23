@@ -66,19 +66,21 @@ Analyzes customer segments based on order behavior.
 3. Update data connections to the correct file paths for the data sources.
 4. Explore the dashboard using slicers and buttons.
 
+
+
 ## About Me
 
  **Education:**
 
-1. **Bachelor of Business - Victoria University - Melbourne – Australia.
+1.  **Bachelor of Business - Victoria University - Melbourne – Australia.
 
-GPA 5.9/7 (Average Distinctions (73%))        • Year - DECEMBER-2018 
+    GPA 5.9/7 (Average Distinctions (73%))        • Year - DECEMBER-2018 
  
- Achieved High Distinction (HD) in 6 units, including 
+     Achieved High Distinction (HD) in 6 units, including 
 
 	Database Systems (Score: 88/100) 
  
-    Supply Chain Analytics (Score: 90/100) 
+        Supply Chain Analytics (Score: 90/100) 
  
 	Operations Management (Score: 89/100)
  
